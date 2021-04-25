@@ -1,2 +1,2 @@
-# UAV--Weather-Forecast
-Design of UAV Weather Forecast Controller
+# 2 Degree of Freedom Helicopter
+Software Establishment for 2 Degree of Freedom Helicopter
